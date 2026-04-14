@@ -31,7 +31,6 @@ TTD-DR catches these errors by cross-referencing every claim against an **indepe
     ├── CONTRADICTED → discard
     └── INSUFFICIENT → discard</div>
 </div>
-</div>
 
 ---
 
