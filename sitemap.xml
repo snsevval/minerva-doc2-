@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://snsevval.github.io/minerva-doc2-/</loc>
+         <loc>https://snsevval.github.io/scientific-literature-knowledge-graph/</loc>
          <lastmod>2026-04-14</lastmod>
     </url>
     <url>
-         <loc>https://snsevval.github.io/minerva-doc2-/installation/</loc>
+         <loc>https://snsevval.github.io/scientific-literature-knowledge-graph/installation/</loc>
          <lastmod>2026-04-14</lastmod>
     </url>
     <url>
-         <loc>https://snsevval.github.io/minerva-doc2-/quickstart/</loc>
+         <loc>https://snsevval.github.io/scientific-literature-knowledge-graph/quickstart/</loc>
          <lastmod>2026-04-14</lastmod>
     </url>
     <url>
-         <loc>https://snsevval.github.io/minerva-doc2-/evaluation/benchmark/</loc>
+         <loc>https://snsevval.github.io/scientific-literature-knowledge-graph/evaluation/benchmark/</loc>
          <lastmod>2026-04-14</lastmod>
     </url>
     <url>
-         <loc>https://snsevval.github.io/minerva-doc2-/evaluation/dataset/</loc>
+         <loc>https://snsevval.github.io/scientific-literature-knowledge-graph/evaluation/dataset/</loc>
          <lastmod>2026-04-14</lastmod>
     </url>
     <url>
-         <loc>https://snsevval.github.io/minerva-doc2-/evaluation/results/</loc>
+         <loc>https://snsevval.github.io/scientific-literature-knowledge-graph/evaluation/results/</loc>
          <lastmod>2026-04-14</lastmod>
     </url>
     <url>
-         <loc>https://snsevval.github.io/minerva-doc2-/system/architecture/</loc>
+         <loc>https://snsevval.github.io/scientific-literature-knowledge-graph/system/architecture/</loc>
          <lastmod>2026-04-14</lastmod>
     </url>
     <url>
-         <loc>https://snsevval.github.io/minerva-doc2-/system/critic/</loc>
+         <loc>https://snsevval.github.io/scientific-literature-knowledge-graph/system/critic/</loc>
          <lastmod>2026-04-14</lastmod>
     </url>
     <url>
-         <loc>https://snsevval.github.io/minerva-doc2-/system/textbookkb/</loc>
+         <loc>https://snsevval.github.io/scientific-literature-knowledge-graph/system/textbookkb/</loc>
          <lastmod>2026-04-14</lastmod>
     </url>
     <url>
-         <loc>https://snsevval.github.io/minerva-doc2-/system/ttddr/</loc>
+         <loc>https://snsevval.github.io/scientific-literature-knowledge-graph/system/ttddr/</loc>
          <lastmod>2026-04-14</lastmod>
     </url>
 </urlset>
